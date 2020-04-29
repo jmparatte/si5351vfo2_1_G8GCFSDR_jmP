@@ -4,9 +4,9 @@ This Arduino software supersedes the Arduino firmware [G8JCFSDR Build 280](http:
 
 You can compile it for every kind of Arduino, even an ESP32.
 
-It uses the standard library [Si5351 Library for Arduino](https://github.com/etherkit/Si5351Arduino) by [Etherkit](https://github.com/etherkit/). which can be installed directly from inside Arduino library manager.
+It uses the standard library [Si5351 Library for Arduino](https://github.com/etherkit/Si5351Arduino) by [Etherkit](https://github.com/etherkit/) which can be installed within the Arduino library manager.
 
-This firmware is only compatible with the build 280 of G8JCFSDR.
+This firmware is only compatible with the build 280 of [G8JCFSDR](http://www.g8jcf.uk/index.htm).
 
 <u>Links:</u>
 
